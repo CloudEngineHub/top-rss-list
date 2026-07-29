@@ -373,6 +373,38 @@
 | 简书: 热门 | [https://plink.anyfeeder.com/jianshu/trending/weekly](https://plink.anyfeeder.com/jianshu/trending/weekly) | [查看](https://www.ifeed.cc/discover?q=plink.anyfeeder.com/jianshu/trending/weekly) | 
 | 界面新闻: 财经 | [https://plink.anyfeeder.com/jiemian/finance](https://plink.anyfeeder.com/jiemian/finance) | [查看](https://www.ifeed.cc/discover?q=plink.anyfeeder.com/jiemian/finance) | 
 
+
+## 播客优质RSS源
+
+面向商业、科技、投资、AI 产业信息流的高价值 Podcast 源。Podcast 本质上也可以通过 RSS 订阅，适合和新闻、博客、Newsletter 一起进入信息聚合与 AI 摘要流程。
+
+### 中文商业 / 科技 / 投资
+
+| 名称 | 分类 | 源 | 查看 |
+| ---- | ---- | ---- | ---- |
+| 卫诗婕｜商业漫谈Jane's talk | 科技商业访谈 | [https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/6627fda4b56459544087d86a](https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/6627fda4b56459544087d86a) | [查看](https://www.ifeed.cc/discover?q=rsshub.bestblogs.dev/xiaoyuzhou/podcast/6627fda4b56459544087d86a) |
+| 张小珺Jùn｜商业访谈录 | 商业 / 科技 / 人物访谈 | [https://feed.xyzfm.space/dk4yh3pkpjp3](https://feed.xyzfm.space/dk4yh3pkpjp3) | [查看](https://www.ifeed.cc/discover?q=feed.xyzfm.space/dk4yh3pkpjp3) |
+| 晚点聊 LateTalk | 科技产业 / 商业 | [https://feeds.fireside.fm/latetalk/rss](https://feeds.fireside.fm/latetalk/rss) | [查看](https://www.ifeed.cc/discover?q=feeds.fireside.fm/latetalk/rss) |
+| 硅谷101 | AI / 科技 / 硅谷 | [https://feeds.fireside.fm/sv101/rss](https://feeds.fireside.fm/sv101/rss) | [查看](https://www.ifeed.cc/discover?q=feeds.fireside.fm/sv101/rss) |
+| 42章经 | 创业 / 投资 / 科技 | [https://feed.xyzfm.space/evgg6xle9rdc](https://feed.xyzfm.space/evgg6xle9rdc) | [查看](https://www.ifeed.cc/discover?q=feed.xyzfm.space/evgg6xle9rdc) |
+| 起朱楼宴宾客 | 金融 / 投资 / 宏观 | [https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/65253bf350cf691d245b29aa](https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/65253bf350cf691d245b29aa) | [查看](https://www.ifeed.cc/discover?q=rsshub.bestblogs.dev/xiaoyuzhou/podcast/65253bf350cf691d245b29aa) |
+| 投资实战派 | 投资 / 公司研究 | [https://feed.xyzfm.space/rgnq4rbx9tpv](https://feed.xyzfm.space/rgnq4rbx9tpv) | [查看](https://www.ifeed.cc/discover?q=feed.xyzfm.space/rgnq4rbx9tpv) |
+| 三点下班 | 投资 / 市场观察 | [https://feed.xyzfm.space/tlel9j4tg3eu](https://feed.xyzfm.space/tlel9j4tg3eu) | [查看](https://www.ifeed.cc/discover?q=feed.xyzfm.space/tlel9j4tg3eu) |
+| 得意忘形 | 个人成长 / 生活方式 | [https://feed.xyzfm.space/klaak6nmc3ux](https://feed.xyzfm.space/klaak6nmc3ux) | [查看](https://www.ifeed.cc/discover?q=feed.xyzfm.space/klaak6nmc3ux) |
+
+### 英文商业 / 管理 / 经济
+
+| 名称 | 分类 | 源 | 查看 |
+| ---- | ---- | ---- | ---- |
+| HBR IdeaCast | 管理 / 商业 | [https://feeds.harvardbusiness.org/harvardbusiness/ideacast](https://feeds.harvardbusiness.org/harvardbusiness/ideacast) | [查看](https://www.ifeed.cc/discover?q=feeds.harvardbusiness.org/harvardbusiness/ideacast) |
+| EconTalk | 经济学 / 公共议题 | [https://feeds.simplecast.com/wgl4xEgL](https://feeds.simplecast.com/wgl4xEgL) | [查看](https://www.ifeed.cc/discover?q=feeds.simplecast.com/wgl4xEgL) |
+| Masters in Business | 投资 / 金融访谈 | [https://feeds.bloomberg.fm/BLM2009837476](https://feeds.bloomberg.fm/BLM2009837476) | [查看](https://www.ifeed.cc/discover?q=feeds.bloomberg.fm/BLM2009837476) |
+| TED Business | 商业 / 领导力 | [https://feeds.feedburner.com/TEDBusiness](https://feeds.feedburner.com/TEDBusiness) | [查看](https://www.ifeed.cc/discover?q=feeds.feedburner.com/TEDBusiness) |
+| Money Talks from The Economist | 金融 / 全球经济 | [https://feeds.acast.com/public/shows/637e33dd7c20e40011ad684e](https://feeds.acast.com/public/shows/637e33dd7c20e40011ad684e) | [查看](https://www.ifeed.cc/discover?q=feeds.acast.com/public/shows/637e33dd7c20e40011ad684e) |
+| Slate Money | 商业 / 金融新闻 | [https://feeds.megaphone.fm/slate-money](https://feeds.megaphone.fm/slate-money) | [查看](https://www.ifeed.cc/discover?q=feeds.megaphone.fm/slate-money) |
+| TED Radio Hour | 科技 / 社会 / 通识 | [https://feeds.npr.org/510298/podcast.xml](https://feeds.npr.org/510298/podcast.xml) | [查看](https://www.ifeed.cc/discover?q=feeds.npr.org/510298/podcast.xml) |
+| Stuff To Blow Your Mind | 科学 / 通识 | [https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6EA152C0-9E3A-45DE-8672-AE2F0056B113/D8936746-9E22-4DBA-B762-AE2F0056B126/podcast.rss](https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6EA152C0-9E3A-45DE-8672-AE2F0056B113/D8936746-9E22-4DBA-B762-AE2F0056B126/podcast.rss) | [查看](https://www.ifeed.cc/discover?q=omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6EA152C0-9E3A-45DE-8672-AE2F0056B113/D8936746-9E22-4DBA-B762-AE2F0056B126/podcast.rss) |
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=weekend-project-space/top-rss-list&type=Date)](https://star-history.com/#weekend-project-space/top-rss-list&Date)
