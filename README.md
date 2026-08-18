@@ -1,23 +1,6 @@
 # top-rss-list
 
 记录 ifeed中 订阅人数最多的RSS源 订阅数量从多到少
-<p align="center">
-  <a href=" ">
-    <img
-      src="https://raw.githubusercontent.com/Amybiubiu/Amybiubiu/main/images/reed-banner.png"
-      alt="芦苇 - 发现好内容"
-      width="800"
-    />
-  </a >
-</p >
-
-<p align="center">
-  <a href="https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406">
-    App Store 下载
-  </a >
-  &nbsp;芦苇 - 发现好内容
-  <small>AD</small>
-</p >
 
 ![](https://raw.githubusercontent.com/weekend-project-space/weekend-project-space/refs/heads/main/static/images/wechat.jpg)
 
